@@ -7,8 +7,8 @@ function WeatherApp() {
     city: "Delhi",
     temp: 24.44,
     tempMin: 25.34,
-    tempMax: 29.45,
-    humidity: 90,
+    tempMax: 31.45,
+    humidity: 50,
     feelsLike: 26.48,
     weather: "haze",
   });
